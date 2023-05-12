@@ -1,0 +1,71 @@
+about/pho tu/khoang chung;sap;gan;/How about this?;We're about to start;He is about to die;/
+add/dong tu/them vao;/add this thing;/
+apple/danh tu/qua tao;/I have an apple;/
+army/danh tu/quan doi;doi quan;/I need an army;You're in the army now;/
+amaze/verb/ngac nhien;/It amazes me how she manages to spend do much money on clothes;/
+
+ball/danh tu/qua bong;qua banh;qua cau;buoi khieu vu;/They're refusing to play ball;I love meatballs;I have a foot ball;/
+bear/danh tu/con gau;/It was a big bear;/
+big/tinh tu/to;lon;quan trong;/He likes to talk big;That is a big tree;He looks so big;It's not a big deal;/
+bond/danh tu/rang buoc;giaokeo;/A bond of friendship;/
+boundless/tinh tu/vo han;vo bien;/This story has occur boundless;/
+
+cold/tinh tu/lanh;nguoi;lanh lung;lanh nhat;/Kill somebody in cold blood;The weather is getting colder;I feel so cold;/
+correct/dong tu;tinh tu/chinh xac;dung/This sum is correct;You are quite correct;/
+cut/dong tu/cat;/The child cut out the pictures;Do you want me to cut your hair?;/
+
+dad/danh tu/cha;ba;bo;/I love my dad;My dad is a teacher;/
+diner/danh tu/nguoi du tiec;/The diners ran from the restaurant when the fire started;/
+dimension/danh tu;kich thuoc;/The dimensions of the box are 20 cm by 10 cm by 4 cm;/
+
+elect/dong tu/bau cu;/He was elected chairman;/
+elegant/tinh tu/thanh lich;/You look elegant today;/
+eligible/tinh tu;/thich hop;co du tu cach;/the most eligible candidate for the post;Is he eligible to join the national team?;/
+
+family/danh tu/gia dinh;/I love my family;/
+father/danh tu/cha;ba;bo;/I love my father;My father is a teacher;/
+frost/danh tu/su dong gia;suong gia;/The ground was covered with frost this morning;There�ll be (a) frost tomorrow;/
+
+girl/danh tu/co gai;con gai;/This girl is pretty;I love this girl;/
+go/dong tu/di;/Let's go;I have to go to work right now;/
+greet/dong tu/chao mung;/She greeted me when I arrived;/
+
+hat/danh tu/cai non;cai mu;/Please wear a hat;I have a black hat;/
+hostile/tinh tu/thu dich;ke thu;/a hostile army;a hostile attitude;/
+half/danh tu/mot nua;1/2;/half a kilo of sugar;a kilo and a half of sugar;/
+
+instruct/dong tu/day;chi dan/He was instructed to come here at nine o�clock;/
+inside/danh tu/ben trong;/The inside of this apple is quite rotten;/
+install/dong tu/lap dat;/When was the telephone/electricity installed (in this house)?;/
+
+jail/danh tu;dong tu/tu;bo tu;/You ought to be sent to jail for doing that;He was jailed for two years;/
+jealous/tinh tu;/ghen ti;ghen tuong;/She is jealous of her sister;a jealous husband;/
+jackpot/dong tu/giai doc dac;/What are the chances of winning the jackpot;/
+
+leak/dong tu/ro ri;/Water was escaping through a leak in the pipe;/
+lake/danh tu/ho nuoc;/They go swimming in and sailing on the lake;/
+leave/dong tu/bo di;roi di/He left the room for a moment;She left her gloves in the car;/
+
+main/tinh tu/chinh;quan trong nhat;/the main purpose;the main character in the story is Akuto;/
+
+
+king /danh tu/vua;chua;vua 1;vua 2;vua 3;/i want to be a king;good king ;bad king;/
+knock/dong tu/go;/Remember knock the door before go to his office;/
+know/dong tu/biet;/He thinks he knows everything;I know of no reason why you cannot go;/
+
+
+mine/dong tu/dat min;khai mo;/Mine the Earth for gold;Mine for gold;/
+
+obviously/trang tu/hien nhien;/Obviously,I will need some help;/
+
+story/danh tu/cau truyen;/He can create infinity story by himself;/
+
+traveller/danh tu/nguoi di du lich;/a weary traveller;/
+
+widespread/tinh tu/lan rong;/widespread hunger and disease;/
+
+youth/danh tu/tuoi tre;/Enjoy your youth!;He spent his youth in America;/
+
+zoo/danh tu/vuon thu;so thu;/My father's taking me to the zoo this weekend;/
+zone/danh tu/khu;mien;/The zone of influence;A nuclear-free zone;Industrial zone;/
+
